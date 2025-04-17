@@ -5,12 +5,12 @@ Este proyecto implementa una aplicación de línea de comandos (CLI) que procesa
 
 ## 🔍 Instrucciones de Ejecución
 1. **Clone el repositorio**:
-'git clone https://github.com/GinnLac/Interbank-academy-25'
-'cd Interbank-academy-25'
+`git clone https://github.com/GinnLac/Interbank-academy-25`
+`cd Interbank-academy-25`
 2. **Asegúrese de tener pandas instalado**:
-'pip install pandas'
+`pip install pandas`
 3. **Ejecute la aplicación**:
-'python Interbank.py data.csv'
+`python Interbank.py data.csv`
 
 
 ## 📈 Enfoque y Solución
