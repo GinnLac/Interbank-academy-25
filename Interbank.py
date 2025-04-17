@@ -1,3 +1,9 @@
+"""
+Procesador de Transacciones Bancarias
+
+Este script procesa un archivo CSV con transacciones bancarias y genera un reporte
+que incluye el balance final, la transacción de mayor monto y el conteo de transacciones.
+"""
 import pandas as pd
 
 data= pd.read_csv("data.csv")
