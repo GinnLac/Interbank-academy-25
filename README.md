@@ -29,4 +29,4 @@ Este proyecto implementa una aplicación de línea de comandos (CLI) que procesa
 ## 📁 Estructura del proyecto
 - **Interbank.py**: Contiene el codigo para cargar datos, realizar calculos y generar reportes.
 - **data.csv**: Archivo con el formato requerido (id, tipo, monto).
-- **README.md**: Descipción de reto.
+- **README.md**: Información sobre la resolución del reto.
